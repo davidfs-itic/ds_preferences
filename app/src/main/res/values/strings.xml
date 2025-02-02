@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ds_preferences</string>
+    <string name="guardar">Guardar</string>
+</resources>
